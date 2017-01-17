@@ -1,0 +1,7 @@
+body {
+  background-color: #0e7feb;
+  color: white;
+  text-align: center;
+}
+a {color: #000}
+a:hover{color: red}
